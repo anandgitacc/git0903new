@@ -11,6 +11,10 @@ public class EmployeeDetails { // block or body of the class
 		System.out.println("Employee mobile: 8939278836");
 	}
 	
+	private void recentMethod() {
+		System.out.println("recent code created");
+	}
+	
 	//main method
 	public static void main(String[] args) {
 		
